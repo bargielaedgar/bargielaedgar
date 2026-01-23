@@ -54,11 +54,6 @@ Below are selected projects that demonstrate my range across different domains:
 
 ---
 
-### GitHub Stats
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bargielaedgar&show_icons=true&theme=radical)
-
----
-
 ### Contact
 * **Location:** Vigo, Spain (Open to Remote/Hybrid)
 * **LinkedIn:** [linkedin.com/in/bargielaedgar](https://www.linkedin.com/in/bargielaedgar/)
