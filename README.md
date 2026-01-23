@@ -38,9 +38,9 @@ Below are selected projects that demonstrate my range across different domains:
 * **[CLICK HERE TO VIEW LIVE APP](https://w99itd-edgar-garcia.shinyapps.io/Football-scouting-dashboard-laliga2526-Edgar/)**
 
 #### 2. Statistical Simulation (The "Hard Stat" Project)
-* **Project:** [Monte Carlo Sensitivity Benchmark](https://github.com/bargielaedgar/algorithm-sensitivity-benchmark)
+* **Project:** [Monte Carlo Sensitivity Benchmark](https://github.com/bargielaedgar/anomaly_detection_simulation.R)
 * **Goal:** Determine critical guidelines for risk management: which statistical test is reliable when data is scarce?
-* **Methodology:** Designed a **Monte Carlo simulation engine** (2,000 iterations) to audit the Power of normality tests (Shapiro-Wilk vs. Lilliefors) under small sample sizes ($n=15$).
+* **Methodology:** Designed a Monte Carlo simulation engine (2,000 iterations) to compare the Power of normality tests under two scenarios: Scarcity ($n=15$) and Abundance ($n=50$)..
 
 #### 3. Process Automation (The "Pipeline" Project)
 * **Project:** [Automated Data Diagnostic](https://github.com/bargielaedgar/automated-data-diagnostic)
@@ -48,7 +48,7 @@ Below are selected projects that demonstrate my range across different domains:
 * **Methodology:** Built an algorithmic decision tree that audits data distribution assumptions and automatically selects the appropriate inference method (Parametric vs. Robust/Non-Parametric).
 
 #### 4. Market Research (The "Business" Project)
-* **Project:** [Consumer Preference Analysis](https://github.com/bargielaedgar/consumer-preference-analysis)
+* **Project:** [Consumer Preference Analysis](https://github.com/bargielaedgar/market-research-coffee-analysis)
 * **Goal:** Validate marketing claims scientifically, eliminating evaluator bias.
 * **Methodology:** Applied **Friedman** and **Nemenyi** non-parametric tests in a block-design experiment to rank brand preference statistically.
 
