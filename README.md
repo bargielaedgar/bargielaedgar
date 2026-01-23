@@ -50,6 +50,6 @@ I specialize in **R**, **Stochastic Simulation**, and **Interactive Dashboards**
 
 ---
 
-### 📫 Contact
+### Contact
 * **Location:** Vigo, Spain (Open to Remote/Hybrid)
 * **LinkedIn:** [linkedin.com/in/bargielaedgar](https://www.linkedin.com/in/bargielaedgar/)
