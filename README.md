@@ -1,18 +1,16 @@
-### Hola! Soy Edgar Bargiela 👋
-**Matemático & Data Scientist en Vigo, Galicia**
+# Edgar Bargiela 📊
+**M.Sc. Statistical Techniques | Mathematician**
 
-Combino la disciplina operativa de 14 años de carrera militar con la potencia analítica de la Estadística Avanzada.
+I turn raw data into actionable insights using advanced Mathematics and Operational Discipline.
 
-* 🎓 **Formación:** Máster en Técnicas Estadísticas (UVigo) + Licenciatura en Matemáticas.
-* 🔭 **Enfoque:** Transformar datos complejos en decisiones estratégicas (Business Intelligence & Data Science).
-* 💼 **Experiencia:** Gestión de Operaciones, Logística y Análisis de Riesgos.
+### 🚀 Professional Profile
+With a **Master's in Statistical Techniques (University of Vigo)** and 14 years of experience in Operational Intelligence (Brazilian Navy), I bridge the gap between academic theory and real-world execution.
 
-### 🛠️ Herramientas
-* **Análisis:** Python, R, SQL.
-* **Visualización:** Power BI, Tableau.
-* **Idiomas:** Español, Portugués, Inglés.
+### 💻 Expertise
+* **Predictive Modeling:** Building models to estimate outcomes (Monte Carlo / Bayesian).
+* **Data Engineering:** Automating pipelines with Python and SQL.
+* **Operational Intelligence:** Translating data for decision-making.
 
-[Conecta conmigo en LinkedIn](https://www.linkedin.com/in/bargielaedgar/)
 
 ---
 
