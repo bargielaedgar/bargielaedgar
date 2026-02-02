@@ -1,12 +1,12 @@
-# Edgar Bargiela 📊
+# Edgar Bargiela 
 **M.Sc. Statistical Techniques | Mathematician**
 
 I turn raw data into actionable insights using advanced Mathematics and Operational Discipline.
 
-### 🚀 Professional Profile
+###  Professional Profile
 With a **Master's in Statistical Techniques (University of Vigo)** and 14 years of experience in Operational Intelligence (Brazilian Navy), I bridge the gap between academic theory and real-world execution.
 
-### 💻 Expertise
+###  Expertise
 * **Predictive Modeling:** Building models to estimate outcomes (Monte Carlo / Bayesian).
 * **Data Engineering:** Automating pipelines with Python and SQL.
 * **Operational Intelligence:** Translating data for decision-making.
