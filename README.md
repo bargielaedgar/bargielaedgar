@@ -33,23 +33,23 @@ With a **Master's in Statistical Techniques (University of Vigo)** and 14 years 
 
 Below are selected projects that demonstrate my range across different domains:
 
-#### 1. Applied Sports Analytics (The "Visual" Project)
+#### 1. Applied Sports Analytics 
 * **Project:** [Football Scouting Dashboard (La Liga 25/26)](https://github.com/bargielaedgar/football-scouting-dashboard)
 * **Goal:** Create an interactive tool for scouts to identify hidden talents using efficiency metrics (G+A per 90min).
 * **Methodology:** Developed a full-stack **Shiny App** with real-time linear regression models and Head-to-Head comparison.
 * **[CLICK HERE TO VIEW LIVE APP](https://w99itd-edgar-garcia.shinyapps.io/Football-scouting-dashboard-laliga2526-Edgar/)**
 
-#### 2. Statistical Simulation (The "Hard Stat" Project)
+#### 2. Statistical Simulation
 * **Project:** [Monte Carlo Sensitivity Benchmark](https://github.com/bargielaedgar/anomaly_detection_simulation.R)
 * **Goal:** Determine critical guidelines for risk management: which statistical test is reliable when data is scarce?
 * **Methodology:** Designed a Monte Carlo simulation engine (2,000 iterations) to compare the Power of normality tests under two scenarios: Scarcity ($n=15$) and Abundance ($n=50$)..
 
-#### 3. Process Automation (The "Pipeline" Project)
+#### 3. Process Automation 
 * **Project:** [Automated Data Diagnostic](https://github.com/bargielaedgar/automated-data-diagnostic)
 * **Goal:** Eliminate human error in statistical model selection.
 * **Methodology:** Built an algorithmic decision tree that audits data distribution assumptions and automatically selects the appropriate inference method (Parametric vs. Robust/Non-Parametric).
 
-#### 4. Market Research (The "Business" Project)
+#### 4. Market Research
 * **Project:** [Consumer Preference Analysis](https://github.com/bargielaedgar/market-research-coffee-analysis)
 * **Goal:** Validate marketing claims scientifically, eliminating evaluator bias.
 * **Methodology:** Applied **Friedman** and **Nemenyi** non-parametric tests in a block-design experiment to rank brand preference statistically.
